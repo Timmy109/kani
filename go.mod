@@ -7,7 +7,7 @@ toolchain go1.23.4
 require github.com/coreos/go-oidc/v3 v3.12.0
 
 require (
-	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
+	github.com/go-jose/go-jose/v3 v3.0.4 // indirect
 	github.com/go-jose/go-jose/v4 v4.0.2 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/stretchr/testify v1.8.4 // indirect
